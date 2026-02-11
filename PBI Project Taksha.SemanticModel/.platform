@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "PBI Project Taksha"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "568258f1-64f5-49ea-82dc-3f3e5ed3da26"
+  }
+}

@@ -1,0 +1,25 @@
+# Power BI cache folders
+.pbi/
+.pbidata/
+*.abf
+
+# Power BI Desktop temp files
+*.tmp
+*.log
+
+# Large report files (avoid pushing heavy files)
+*.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python (if you use it for data cleaning)
+__pycache__/
+*.pyc
+
+# Jupyter (if used)
+.ipynb_checkpoints/
